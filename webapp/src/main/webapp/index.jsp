@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Registration of New Users for DevOps Learning at CloudStackh.com</h1>
+    <h1>Registration of New Users for DevOps Learning at CloudStackh.com 2</h1>
     <p>Please fill in this form to create your new Account.</p>
     <hr>
      
