@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thank You so much stay tuned, Happy Learning good luck </h1>
-   <h1> see you again after some time...</h1>
+   <h1> SEE you again after some time...</h1>
   
 </form>
